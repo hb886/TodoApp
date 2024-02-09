@@ -1,8 +1,8 @@
 {
-  "name": "todo-react-app",
+  "name": "TodoApp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hb886.github.io/todo-react-app/",
+  "homepage": "https://hb886.github.io/TodoApp/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
